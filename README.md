@@ -35,7 +35,8 @@ The dataset contains customer-related information such as:
 ## 📸 Screenshots
 ## 📸 Dashboard Screenshot
 
-![Dashboard](bank dashboard.pbix)
+![Dashboard](dashboard.png)
+![Dashboard](dashboard2.png)
 
 
 ## 🚀 Conclusion
